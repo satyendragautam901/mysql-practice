@@ -72,7 +72,11 @@ git clone https://github.com/satyendragautam901/mysql-practice.git
 cd mysql-practice
 ```
 
+---
+
 ### 🧠 My Learning Principles
+
+
 
 - ✍️ Write clean, readable, and efficient SQL
 
@@ -81,6 +85,8 @@ cd mysql-practice
 - 🗂️ Group by topic for quick review and recall
 
 - 🧩 Solve both basic and tricky queries to build confidence
+
+
 
 ### 🙋‍♂️ About Me
 
@@ -96,7 +102,7 @@ A Computer Science graduate and passionate software developer who enjoys:
 - 💼 Sharing knowledge on LinkedIn
 
 
-
+---
 
 ### 🤝 Want to Contribute?
 
