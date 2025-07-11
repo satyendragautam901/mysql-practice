@@ -74,26 +74,26 @@ cd mysql-practice
 
 ### 🧠 My Learning Principles
 
-    ✍️ Write clean, readable, and efficient SQL
+- ✍️ Write clean, readable, and efficient SQL
 
-    🔍 Manually test queries in MySQL Workbench
+- 🔍 Manually test queries in MySQL Workbench
 
-    🗂️ Group by topic for quick review and recall
+- 🗂️ Group by topic for quick review and recall
 
-    🧩 Solve both basic and tricky queries to build confidence
+- 🧩 Solve both basic and tricky queries to build confidence
 
 ### 🙋‍♂️ About Me
 
 Hi, I’m Satyendra Gautam —
 A Computer Science graduate and passionate software developer who enjoys:
 
-    🛠️ Building scalable backend systems
+- 🛠️ Building scalable backend systems
 
-    📚 Learning & teaching core CS concepts
+- 📚 Learning & teaching core CS concepts
 
-    ✍️ Writing technical blogs on Hashnode
+- ✍️ Writing technical blogs on Hashnode
 
-    💼 Sharing knowledge on LinkedIn
+- 💼 Sharing knowledge on LinkedIn
 
 
 
@@ -102,11 +102,11 @@ A Computer Science graduate and passionate software developer who enjoys:
 
 If you're also learning SQL and want to contribute:
 
-    🍴 Fork the repo
+- 🍴 Fork the repo
 
-    ✍️ Add your query with comments/explanation
+- ✍️ Add your query with comments/explanation
 
-    📩 Open a Pull Request
+- 📩 Open a Pull Request
 
 ### ⭐ Star if You Like It
 If this repo helped or inspired you, drop a ⭐️ — it keeps me motivated!
