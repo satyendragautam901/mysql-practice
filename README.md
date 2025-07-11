@@ -98,7 +98,7 @@ A Computer Science graduate and passionate software developer who enjoys:
 
 
 
-🤝 Want to Contribute?
+### 🤝 Want to Contribute?
 
 If you're also learning SQL and want to contribute:
 
