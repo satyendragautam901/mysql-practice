@@ -107,6 +107,16 @@ alter table Student change rollnumber roll int ;
 -- find percentage of marks of each student
 select studentName, count(studentName) as cnt, sum(marks) as total_marks, round(sum(marks)/500*100,2) as percentage from Student group by studentName order by cnt;
 
+-- case
+select studentName, marks, case
+when marks>=90 then "A"
+when marks>=75 then "B"
+when marks>=60 then "C"
+when marks>50 then "D"
+else "F"
+end as grade
+ from Student;
+
 
 
 
