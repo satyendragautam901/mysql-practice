@@ -88,3 +88,25 @@ select * from Student;
 
 select city, count(*) from Student group by city having max(marks)>60;
 
+-- alter table : basically perform operation on table. used to rename, modify constraint, add column
+
+select * from Student;
+
+-- add a column age in student table
+alter table Student add column age int not null default 18;
+
+-- delete column age
+alter table Student drop age;
+
+-- rename stu_name to stuent name
+alter table Student change stu_name studentName varchar(100) not null ;
+
+-- rename rollnumber
+alter table Student change rollnumber roll int ;
+
+-- find percentage of marks of each student
+select studentName, count(studentName) as cnt, sum(marks) as total_marks, round(sum(marks)/500*100,2) as percentage from Student group by studentName order by cnt;
+
+
+
+
