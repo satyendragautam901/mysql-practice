@@ -1,1 +1,4 @@
-*.sql linguist-language=SQL
+# *.sql linguist-language=SQL
+/sql/*.sql linguist-language=SQL
+# This file is used to define attributes for files in the repository.
+# The attributes can control how Git handles the files, such as text encoding, merge strategies,
